@@ -1,0 +1,1 @@
+This project is about Emacs, and learning how to use it with git and github. Made by Matias Zappino.
